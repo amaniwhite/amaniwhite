@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently a Data Analyst with keen interest in AI.
 - 🌱 I’m currently learning Machine Learning Engineering (Self study).
-- 📝 All of my work is currently at [Repositories](https://github.com/amaniwhite?tab=repositories)
+- 📝 All of my work is currently at [Repositories](https://amaniwhite.github.io/)
