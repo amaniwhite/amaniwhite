@@ -2,5 +2,5 @@
 ## Hi there ✌️, I'm Amani
 
 - 🔭 I’m currently a Data Analyst with keen interest in AI.
-- 🌱 I’m currently learning Machine Learning Engineering (Self study).
+- 🌱 I’m currently learning Data Engineering (Self study).
 - 📝 All of my work is currently at [Repositories](https://amaniwhite.github.io/)
